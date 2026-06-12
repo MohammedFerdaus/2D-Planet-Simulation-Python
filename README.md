@@ -93,15 +93,15 @@ A 750×600 window opens with the Sun fixed at center and the outer planets orbit
 
 Pausing and unpausing the simulation:
 
-![pause](gifs/pause.gif)
+![pause](gifs/pause_animation.gif)
 
 Adjusting the time multiplier with ↑ / ↓:
 
-![speed](gifs/speed.gif)
+![speed](gifs/speed_change.gif)
 
 Resetting to initial conditions with R:
 
-![reset](gifs/reset.gif)
+![reset](gifs/reset_animation.gif)
 
 ## Tuning
 

@@ -1,6 +1,6 @@
 import pygame
 import numpy as np
-import config
+import config 
 
 def world_to_screen(position, scale, offset):
     screen_x = int(position[0] * scale + offset[0])

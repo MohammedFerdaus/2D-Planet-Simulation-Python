@@ -3,7 +3,7 @@ import numpy as np
 import config
 import physics
 import renderer
-
+ 
 def init():
     pygame.init()
     

@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 # Display
 window_width  = 750
 window_height = 600

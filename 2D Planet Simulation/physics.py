@@ -1,6 +1,6 @@
 import numpy as np
 import config
-
+ 
 class Body:
     def __init__(self, name, mass, radius, color, position, velocity):
         self.name = name

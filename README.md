@@ -1,4 +1,4 @@
-# 🪐 2D Planet Simulator
+# 2D Planet Simulator
 
 A real-time 2D N-body orbital simulator built in Python using pygame and numpy. The outer planets of the solar system orbit the Sun under real Newtonian gravity, driven by a Velocity Verlet integrator in AU/solar mass/year units. A time multiplier lets you watch decades of orbital motion in seconds.
 
@@ -88,6 +88,20 @@ A 750×600 window opens with the Sun fixed at center and the outer planets orbit
 | Space    | Pause / unpause               |
 | R        | Reset to initial conditions   |
 | Escape   | Quit                          |
+
+## Demo
+
+Pausing and unpausing the simulation:
+
+![pause](gifs/pause.gif)
+
+Adjusting the time multiplier with ↑ / ↓:
+
+![speed](gifs/speed.gif)
+
+Resetting to initial conditions with R:
+
+![reset](gifs/reset.gif)
 
 ## Tuning
 
